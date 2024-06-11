@@ -14,7 +14,7 @@ Vamos continuar aprendendo e transformando o mundo! 🚀
 ## Um pouco sobre mim:
 Me chamo Jennifer Lemos, estudando de ciência de dados, entusiasta e apaixonada pela tecnologia.
 
-## O que estou em busco:
+## O que estou em busca:
 Me tornar uma cientista de dados.
 
 ## Sobre o repositório:
