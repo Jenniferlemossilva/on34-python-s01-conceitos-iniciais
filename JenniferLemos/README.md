@@ -1,7 +1,7 @@
 
 
 
-# Jennifer Lemoos- Deixando um pouco de nós e levando um pouco do outro.
+## Jennifer Lemos- Deixando um pouco de nós e levando um pouco do outro.
 
 ## Um recadinho com carinho à professora e inspiração Jennifer Placido.
  Suas aulas buscam inspiram e motivam a todas nós alunas neste momento que enfrentamos desafios. Como mentora espero contar com você nessa jornada!
