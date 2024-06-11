@@ -3,7 +3,7 @@
 
 # Jennifer Lemoos para Jennifer Plácido- Profesora Reprograma
 
-# Um recadinho com carinho:
+## Um recadinho com carinho:
  Suas aulas buscam inspiram e motivam a todas nós alunas neste momento que enfrentamos desafios. Como mentora espero contar com você nessa jornada!
 
 # Agradecimento
